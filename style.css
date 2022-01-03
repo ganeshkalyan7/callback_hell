@@ -1,0 +1,17 @@
+#heading{
+    border: 2px solid black;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 400px;
+    margin-top: 200px;
+    
+}
+#btn{
+    margin-left: 400px;
+}
+body{
+    background-color: black;
+}
+   
